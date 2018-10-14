@@ -20,7 +20,7 @@ customize:
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: dobachi
         author_title: man of leisure
-        location: USA
+        location: Tokyo, Japan
         follow: https://github.com/dobachi
     highlight: monokai
     sidebar: right # sidebar position, options: left, right or leave it empty
